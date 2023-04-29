@@ -1,0 +1,17 @@
+* {
+    font-family: 'Josefin Sans';
+}
+
+.test-title {
+    /* text-align: center; та font-size: 36px;,
+    я зробив, щоб було краще видно текст */
+    text-align: center;
+    font-size: 36px;
+
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px;
+    margin-bottom: 30px;
+    border: 2px dashed red;
+    background-color: green;
+}
