@@ -3,9 +3,8 @@
 }
 
 .test-title {
-    /* text-align: center; та font-size: 36px;,
+    /* font-size: 36px;,
     я зробив, щоб було краще видно текст */
-    text-align: center;
     font-size: 36px;
 
     width: 350px;
